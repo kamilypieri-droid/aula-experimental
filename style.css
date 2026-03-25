@@ -1,22 +1,34 @@
 body{
-    background-color: rgb(66, 160, 223);
-    color: white;
+    background-color: rgb(247, 232, 247);
+    color: rgb(216, 91, 233);
     text-align: center;
-    font-size: 22px;
+    font-size: 21px;
 
 }
 .paragrafo{
-    color: black;
+    color: rgb(152, 75, 153);
     font-size: 18px;
 }
 
 .imagem{
-    width: 25%;
+    width: 16%;
+    position: absolute;
+    top: 300px;
+    left: 200px;
 }
 
 .rodape{ 
     font-size: 25px;
-    color: rgb(30, 54, 210);
+    color: rgb(235, 88, 201);
     margin: 0.5px;
-    padding: 12%;
+    padding: 5%;
+    position: absolute;
+    top: 630px;
+    left: 200px;
+}
+
+.texto{ 
+    position: relative;
+    top: 90px;
+    right: 15px;
 }
